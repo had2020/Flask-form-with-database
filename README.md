@@ -6,7 +6,7 @@ Simple Flask website, where you submit data and its sent into a database
 - flask
 
 
-- How to scale the project 
+How to scale the project 
 Project Structure:
 
 Organize your codebase for better maintainability. Here's a common structure:
